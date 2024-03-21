@@ -1,0 +1,36 @@
+body {
+    background-color: #f6f6f6;
+
+    strong {
+        color: LightSkyBlue;
+    }
+
+    h1 {
+        color: black;
+    }
+
+    p {
+        background-color: aliceblue;
+        color: black;
+    }
+
+    button {
+        background-color: LightSkyBlue;
+        color: black;
+    }
+
+    header {
+        background-color: aliceblue;
+        color: black;
+    }
+
+    footer {
+        background-color: aliceblue;
+        color: black;
+    }
+
+    a {
+        color: RoyalBlue;
+
+    }
+}
